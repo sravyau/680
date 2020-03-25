@@ -35,7 +35,7 @@
 		</java>
 	</target>
 	
-	<target name="HW3_Junit" depends="compile">
+	<target name="HW4_Junit" depends="compile">
 		<junitlauncher printSummary="yes">
 			<classpath refid="test.classpath" />
 				<testclasses outputdir="test">
