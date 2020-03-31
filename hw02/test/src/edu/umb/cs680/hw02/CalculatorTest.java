@@ -3,7 +3,8 @@ package edu.umb.cs680.hw02;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 
-class CalculatorTest {
+
+public class CalculatorTest {
 
 	@Test
 	public void multiply6By2() {
